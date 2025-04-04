@@ -6,5 +6,3 @@ results/
 data/
 *.pth
 *.pt
-*.pkl
-*.h5
